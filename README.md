@@ -6,4 +6,8 @@
 
 ### DEVOPS: -
 
-- [This](https://www.youtube.com/watch?v=eB0nUzAI7M8) is a short video on GitHub actions from one of my ( Or Rather possibly my most ) favorite youtubers.
+- [This](https://www.youtube.com/watch?v=eB0nUzAI7M8) is a short video on GitHub actions from one of my ( Or Rather possibly my most ) favorite youtubers, Fireship.
+
+- [This](https://www.youtube.com/watch?v=ecK3EnyGD8o) is a great video on git from Fireship.
+
+- []
