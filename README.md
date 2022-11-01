@@ -10,4 +10,4 @@
 
 - [This](https://www.youtube.com/watch?v=ecK3EnyGD8o) is a great video on git from Fireship.
 
-- []
+- [This](https://www.youtube.com/watch?v=uEVmD6n8Il0) is a great video on backend code deployment strategies with Node JS as an example from Fireship.
