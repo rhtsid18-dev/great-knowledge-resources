@@ -8,6 +8,10 @@
 
 - [This](https://courses.ankurwarikoo.com/) is a great course on time management and beating procrastination by Ankur Warikoo.
 
+### Core CS Concepts: -
+
+- [This](https://www.youtube.com/watch?v=4PdegmlQ-x0) is a great YT video on understanding Big-O Notation and how to algorithem time complexity is measured
+
 ### DEVOPS: -
 
 - [This](https://www.youtube.com/watch?v=eB0nUzAI7M8) is a short video on GitHub actions from one of my ( Or Rather possibly my most ) favorite youtubers, Fireship.
