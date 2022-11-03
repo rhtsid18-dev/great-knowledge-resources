@@ -21,3 +21,5 @@
 - [This](https://www.youtube.com/watch?v=uEVmD6n8Il0) is a great video on backend code deployment strategies with Node JS as an example from Fireship.
 
 - [This](https://www.youtube.com/watch?v=gAkwW2tuIqE) is a great short video on docker from Fireship.
+
+- [This](https://www.youtube.com/watch?v=8hly31xKli0) is a great video on Data Structure & Algorithms from freecodecamp.org.
