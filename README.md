@@ -7,6 +7,7 @@
 ### Self Management: -
 
 - [This](https://courses.ankurwarikoo.com/) is a great course on time management and beating procrastination by Ankur Warikoo.
+- [This](https://www.freecodecamp.org/news/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672/) is an article on freecodecamp.org which lists some app ideas that you can build on when learning some tech stack.
 
 ### Core CS Concepts: -
 
