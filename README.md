@@ -27,6 +27,7 @@
 
 - Setting up servers
     - [This](https://web.dev/how-to-use-local-https/) is a great article on how to setup SSL for local development servers using MKCERT.
+    - [This](https://www.youtube.com/watch?v=hdH0av9i_Lw) is a link to a YT video which explains how we can use GCP Compute engine in the free teir for ever 24/7 365 Days/Year.
     - [This](https://www.youtube.com/watch?v=prjMJtXCR-g) is a link to a YT video is on some great alternatives to Heroku for free tier hosting of your hobby/personal/practice projects.
     - [This](https://www.youtube.com/watch?v=MusIvEKjqsc) is a link to another YT video on heroku free teir alternatives for deployments. More specifically docker deployments.
 
