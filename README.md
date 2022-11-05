@@ -25,6 +25,9 @@
 
 ### DEVOPS: -
 
+- Setting up servers
+    - [This](https://web.dev/how-to-use-local-https/) is a great article on how to setup SSL for local development servers using MKCERT.
+
 - GitHub Actions
     - [This](https://www.youtube.com/watch?v=eB0nUzAI7M8) is a short video on GitHub actions from one of my ( Or Rather possibly my most ) favorite youtubers, Fireship.
 
