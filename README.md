@@ -28,6 +28,7 @@
 - Setting up servers
     - [This](https://web.dev/how-to-use-local-https/) is a great article on how to setup SSL for local development servers using MKCERT.
     - [This](https://www.youtube.com/watch?v=prjMJtXCR-g) is a link to a YT video is on some great alternatives to Heroku for free tier hosting of your hobby/personal/practice projects.
+    - [This](https://www.youtube.com/watch?v=MusIvEKjqsc) is a link to another YT video on heroku free teir alternatives for deployments. More specifically docker deployments.
 
 - GitHub Actions
     - [This](https://www.youtube.com/watch?v=eB0nUzAI7M8) is a short video on GitHub actions from one of my ( Or Rather possibly my most ) favorite youtubers, Fireship.
