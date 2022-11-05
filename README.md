@@ -13,6 +13,10 @@
 
 - [This](https://www.youtube.com/watch?v=4PdegmlQ-x0) is a great YT video on understanding Big-O Notation and how to algorithem time complexity is measured
 
+### Javascript & Typescript: -
+
+- [This](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g) is a great article on how to properly setup ESLint & Prettier for your project.
+
 ### DEVOPS: -
 
 - [This](https://www.youtube.com/watch?v=eB0nUzAI7M8) is a short video on GitHub actions from one of my ( Or Rather possibly my most ) favorite youtubers, Fireship.
