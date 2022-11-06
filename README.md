@@ -26,6 +26,7 @@
 ### DEVOPS: -
 
 - Setting up servers
+    - [This](https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/) is a great article ( With an embedded YT tutorial video ) on how to setup SSL for local development server. I have verified that the steps mentioned in this tutorial work.
     - [This](https://itnext.io/node-express-letsencrypt-generate-a-free-ssl-certificate-and-run-an-https-server-in-5-minutes-a730fbe528ca) is an article on how to setup SSL for free on a node JS server in the cloud using certbot.
     - [This](https://www.youtube.com/watch?v=hdH0av9i_Lw) is a link to a YT video which explains how we can use GCP Compute engine in the free teir for ever 24/7 365 Days/Year.
     - [This](https://www.youtube.com/watch?v=prjMJtXCR-g) is a link to a YT video is on some great alternatives to Heroku for free tier hosting of your hobby/personal/practice projects.
