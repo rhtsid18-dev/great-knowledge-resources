@@ -23,6 +23,10 @@
 - ESLint & Prettier
     - [This](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g) is a great article on how to properly setup ESLint & Prettier for your project.
 
+### React JS: -
+
+- [This](https://www.youtube.com/watch?v=00RoZflFE34) is a great YT video on how to find and fix performance problems in your react application using the React profiler.
+
 ### DEVOPS: -
 
 - Setting up servers
