@@ -26,6 +26,7 @@
 ### React JS: -
 
 - [This](https://www.youtube.com/watch?v=00RoZflFE34) is a great YT video on how to find and fix performance problems in your react application using the React profiler.
+- [This](https://www.youtube.com/watch?v=b0IZo2Aho9Y) is a great YT video on 10 ReactJS Anti-Patterns to avoid.
 
 ### DEVOPS: -
 
