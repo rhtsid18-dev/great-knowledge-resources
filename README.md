@@ -18,6 +18,10 @@
     - [This](https://www.youtube.com/watch?v=4PdegmlQ-x0) is a great YT video on understanding Big-O Notation and how to algorithem time complexity is measured
     - [This](https://www.youtube.com/watch?v=8hly31xKli0) is a great video on Data Structure & Algorithms from freecodecamp.org.
 
+### Mongo DB: -
+
+- [This](https://www.youtube.com/watch?v=IHQeDEn38BQ) is a great YT video explaining the use of indexes in mongodb.
+
 ### Javascript & Typescript: -
 
 - ESLint & Prettier
