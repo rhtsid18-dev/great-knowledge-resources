@@ -12,6 +12,10 @@
 - Practice Project Ideas
     - [This](https://www.freecodecamp.org/news/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672/) is an article on freecodecamp.org which lists some app ideas that you can build on when learning some tech stack.
 
+### Workflow & Preferences Setup Stuff: -
+
+- [This](https://www.youtube.com/watch?v=CF1tMjvHDRA) is a YT tutorial on how to glow up your default mac terminal with iterm2.
+
 ### Core CS Concepts: -
 
 - Data Structures & Algorithms
