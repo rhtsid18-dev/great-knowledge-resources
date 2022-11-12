@@ -21,6 +21,7 @@
 - Data Structures & Algorithms
     - [This](https://www.youtube.com/watch?v=4PdegmlQ-x0) is a great YT video on understanding Big-O Notation and how to algorithem time complexity is measured
     - [This](https://www.youtube.com/watch?v=8hly31xKli0) is a great video on Data Structure & Algorithms from freecodecamp.org.
+    - [This](https://www.youtube.com/watch?v=rZ41y93P2Qo) is a video to a great free course. Need to check this one out.
 
 ### Mongo DB: -
 
