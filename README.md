@@ -40,6 +40,7 @@
 ### DEVOPS: -
 
 - Setting up servers
+    - [This](https://www.cloudbooklet.com/how-to-add-swap-space-on-ubuntu-18-04-google-cloud/) is an article on how to setup swap memory of 1 GB on your GCP Compute Engine VM instance.
     - [This](https://www.youtube.com/watch?v=5JQlFK6MdVQ) is a great video on how to setup a dockerized nodeJS application with hot reloading and debugging setup.
     - [This](https://deliciousbrains.com/ssl-certificate-authority-for-local-https-development/) is a great article ( With an embedded YT tutorial video ) on how to setup SSL for local development server. I have verified that the steps mentioned in this tutorial work.
     - [This](https://itnext.io/node-express-letsencrypt-generate-a-free-ssl-certificate-and-run-an-https-server-in-5-minutes-a730fbe528ca) is an article on how to setup SSL for free on a node JS server in the cloud using certbot.
